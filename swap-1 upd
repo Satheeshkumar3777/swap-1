@@ -1,0 +1,16 @@
+import java.util.Scanner;
+public class Swapnum{
+public static void main(String[]args)
+{
+ int x=200,y=100;
+ System.out.println("before swap");
+ System.out.println("x="+x);
+ System.out.println("y="+y);
+ int temp=x;
+ x=y;
+ y=temp;
+ System.out.println("after swap");
+ System.out.println("x="+x);
+ System.out.println("y="+y);
+ }
+}
