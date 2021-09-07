@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Swap{
+public class Swapnum{
 public static void main(String[]args)
 {
  int x=100,y=200;
